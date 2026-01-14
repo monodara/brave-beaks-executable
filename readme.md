@@ -5,6 +5,9 @@
 ![Box2D](https://img.shields.io/badge/Physics-Box2D-orange)
 ![Supabase](https://img.shields.io/badge/Backend-Supabase-black?logo=supabase)
 
+## Demo Video
+https://github.com/monodara/brave-beaks-executable/blob/main/breakbeaks_demo.mp4
+
 **Brave Beaks** is a 2D physics-based puzzle game developed in C++ using the **SFML** (Simple and Fast Multimedia Library) for graphics/audio and **Box2D** for high-fidelity physics simulation. The game challenges players to utilize a slingshot mechanism to launch various birds, each with unique abilities, to destroy structures and defeat enemies.
 ![Home Page](screenshots/homepage.png)
 
